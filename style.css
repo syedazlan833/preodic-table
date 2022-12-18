@@ -1,0 +1,276 @@
+#preodic{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 29px;
+}
+.table{
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 35px;
+    border-radius: 4px;
+    text-align: center;
+    
+}
+#eight{
+    visibility: hidden;
+}
+#H{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#He{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#Li{
+    border-color: cyan;
+    background-color:cyan ;
+    color: blue;
+}
+#Be{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#B{
+    border-color:lightyellow ;
+    background-color:lightyellow;
+    color: brown;
+}
+#C{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#N{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#O{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#F{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#Ne{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#Na{
+    border-color: cyan;
+    background-color:cyan ;
+    color: blue;
+}
+#Mg{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#Al{
+    border-color:lightgreen ;
+    background-color:lightgreen ;
+    
+}
+#Si{
+    border-color:lightyellow ;
+    background-color:lightyellow ;
+    color: brown;
+}
+#P{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#S{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#Cl{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#Ar{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#K{
+    border-color: cyan;
+    background-color:cyan ;
+    color: blue;
+}
+#Ca{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#So{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+    border-spacing: 40px;
+}
+#Ti{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#V{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Cr{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Mn{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Fe{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Co{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Ni{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Cu{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Zn{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Y{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Ga{
+    border-color:lightgreen ;
+    background-color:lightgreen ;
+    
+}
+#Ge{
+    border-color:lightyellow ;
+    background-color:lightyellow ;
+    color: brown;
+}
+#As{
+    border-color:lightyellow ;
+    background-color:lightyellow ;
+    color: brown;
+}
+#A{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#Br{
+    border-color: lightblue;
+    background-color:lightblue ;
+    color: blue;
+}
+#Kr{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#Rb{
+    border-color: cyan;
+    background-color:cyan ;
+    color: blue;
+}
+#Sr{
+    border-color:lightpink ;
+    background-color:lightpink ;
+    color: red;
+}
+#Zr{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Zr{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#zr{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Me{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#No{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Tc{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Ru{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Rh{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Pd{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Ag{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#Cd{
+    border-color: rgb(224, 212, 250);
+    background-color:rgb(224, 212, 250);
+    color: purple;
+}
+#In{
+    border-color:lightgreen ;
+    background-color:lightgreen ;
+    
+}
+#Sn{
+    border-color:lightgreen ;
+    background-color:lightgreen ;
+    
+}
